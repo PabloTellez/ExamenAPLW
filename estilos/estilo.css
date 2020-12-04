@@ -1,0 +1,106 @@
+@font-face{
+    src: url(../fuentes/DragonFire.ttf);
+    font-family:DragonFire;
+}
+@font-face{
+    src: url(../fuentes/san_frediano_regular.ttf);
+    font-family:frediano;
+}
+
+body{
+    background-image: url(..//imagenes/tile-sky2.jpg);
+}
+
+h1{
+    font-family:DragonFire;
+}
+h2{
+   font-family:frediano; 
+   font-size: 15px;
+   position: relative;
+   left: 5px;
+}
+#inicio {
+    background-image: url('../imagenes/dragon1.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    text-shadow: gray;   
+    
+}
+
+#Introducción {
+    background-image: url('../imagenes/dragon1.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 40px;
+    text-shadow: gray; 
+}
+#Autor {
+    background-image: url('../imagenes/dragon1.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 40px;
+    text-shadow: gray;   
+}
+#galería {
+    background-image: url('../imagenes/dragon1.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 40px;
+    text-shadow: gray;   
+    
+}
+#contacto {
+    background-image: url('../imagenes/dragon1.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 40px;
+    text-shadow: gray;   
+    
+}
+#Blog {
+    background-image: url('../imagenes/dragon1.jpg');
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 40px;
+    text-shadow: gray;   
+    
+}
+
+footer{
+    background-image: url(../imagenes/tile.jpg)
+    background-position: center;
+    background-image: url(../imagenes/tile.jpg);
+}
+
+main {
+    background-image: url(../imagenes/tile.jpg);
+}
+
+nav {
+    position: relative;
+    top:0px;
+}
+
+.topnav {
+    background-color:mediumorchid;
+    overflow: hidden;
+    position: pixel;
+    top: 0px;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
